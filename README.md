@@ -20,21 +20,27 @@ The main goal of this repository is to improve problem-solving skills through pr
 
 ## 🔍 Repository Structure
 
-The repository is organized into folders, each corresponding to a programming language:
-
-/ ├── solidity/ │ ├── example1.sol │ ├── example2.sol │ ├── javascript/ │ ├── example1.js │ ├── example2.js │ ├── c/ │ ├── example1.c │ ├── example2.c │ ├── cpp/ │ ├── example1.cpp │ ├── example2.cpp
-
-sql
-Copiar
-Editar
-
+The repository is organized into folders, each corresponding to a programming language:   
+   
+/    
+|-- solidity/     
+|   |-- example1.sol      
+|   |-- example2.sol   
+|   
+|-- javascript/   
+|   |-- example1.js   
+|   |-- example2.js   
+|   
+|-- c/   
+|   |-- example1.c   
+|   |-- example2.c   
+|   
+|-- cpp/   
+|   |-- example1.cpp   
+|   |-- example2.cpp   
+   
 Each file contains a **description of the problem** and the implemented solution.
 
-yaml
-Copiar
-Editar
-
-Each file contains a **description of the problem** and the implemented solution.
 
 ---
 
@@ -43,50 +49,40 @@ Each file contains a **description of the problem** and the implemented solution
 To run the examples, follow the instructions below:
 
 ### Solidity
-Make sure you have **Foundry** installed:
-```sh
-forge test
-JavaScript
-Run using Node.js:
+Make sure you have **Foundry** installed:   
+```forge test```
 
-sh
-Copiar
-Editar
-node example1.js
+JavaScript   
+
+Run using Node.js:   
+node example1.js   
+
 C
-Compiling and running a C file:
+Compiling and running a C file:   
+```gcc example1.c -o example1```
 
-sh
-Copiar
-Editar
-gcc example1.c -o example1
-./example1
-C++
-Compiling and running a C++ file:
 
-sh
-Copiar
-Editar
-g++ example1.cpp -o example1
-./example1
-🛠 Contribution
-Feel free to contribute with new challenges and solutions! To do so:
+C++   
+Compiling and running a C++ file:   
+```g++ example1.cpp -o example1```
 
-Fork this repository.
-Create a new branch.
-Add your code and commit.
-Submit a pull request.
-📈 Roadmap
- Add automated tests for solutions.
- Improve documentation with practical examples.
- Create advanced challenges with algorithm and data structure concepts.
-🚀 License
-This project is under the MIT License.
 
-💪 Let's evolve together in programming logic! If you liked the repository, leave a star ⭐ 😊.
+🛠 Contribution   
+Feel free to contribute with new challenges and solutions! To do so:   
+   
+Fork this repository.   
+Create a new branch.   
+Add your code and commit.   
+Submit a pull request.   
 
-perl
-Copiar
-Editar
+📈 Roadmap   
+ Add automated tests for solutions.   
+ Improve documentation with practical examples.   
+ Create advanced challenges with algorithm and data structure concepts.   
+🚀 License   
+This project is under the MIT License.   
+
+💪 Let's evolve together in programming logic! If you liked the repository, leave a star ⭐ 😊.   
+
 
 

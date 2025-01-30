@@ -24,6 +24,12 @@ The repository is organized into folders, each corresponding to a programming la
 
 / ├── solidity/ │ ├── example1.sol │ ├── example2.sol │ ├── javascript/ │ ├── example1.js │ ├── example2.js │ ├── c/ │ ├── example1.c │ ├── example2.c │ ├── cpp/ │ ├── example1.cpp │ ├── example2.cpp
 
+sql
+Copiar
+Editar
+
+Each file contains a **description of the problem** and the implemented solution.
+
 yaml
 Copiar
 Editar

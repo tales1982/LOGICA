@@ -1,4 +1,3 @@
-
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.16;
 
@@ -22,8 +21,6 @@ A idade deve ser maior que 0.
 O nome não pode ser vazio.
 */
 
-// SPDX-License-Identifier: MIT
-pragma solidity ^0.8.0;
 
 contract UserRegistry {
     struct User {
